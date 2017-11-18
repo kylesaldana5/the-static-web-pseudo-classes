@@ -1,0 +1,14 @@
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+.inline {
+    display: block;
+    border: 1px solid black;
+    margin: 25px 25px;
+}
+
+.n-type {
+    border: 1px solid black;
+}
